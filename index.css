@@ -326,3 +326,8 @@ nav {
     cursor: pointer;
     color: var(--btn-back-color);
 }
+
+.list-container li:hover{
+    cursor: pointer;
+    color: var(--btn-back-color);
+}
